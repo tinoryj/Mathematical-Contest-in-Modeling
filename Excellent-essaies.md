@@ -26,5 +26,5 @@ pdf 50页（页眉页码231页）
 pdf 93页（页眉页码275页）
 [2012mcmsolutions.pdf](/Paper/2012mcmsolutions.pdf)
 ## 2015 ICM UESTC ProblemD Final list
-[2015-ICM-UESTC-ProblemD-Final list.pdf](/Paper/2015-ICM-UESTC-ProblemD-Final list.pdf)
+[2015-ICM-UESTC-ProblemD-Final list.pdf](/Paper/2015-ICM-UESTC-ProblemD-Final-list.pdf)
 
