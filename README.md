@@ -1,10 +1,13 @@
-# MCM_Algorithm_Matlab
+# Mathematical-Contest-in-Modeling
 
+## Main Object
 
-MCM algorithm template with Matlab
+- MCM algorithm template with Matlab
 
-优秀论文集
-[Excellent essaies]()
+- 优秀论文集 [Excellent essaies](Mathematical-Contest-in-Modeling/Excellent essaies.md)
+
+- Basic Models in MCM (In folder with same name)
+
 ## Content
 
 ### 线性规划
