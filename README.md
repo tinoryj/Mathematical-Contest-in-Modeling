@@ -4,7 +4,7 @@
 
 - MCM algorithm template with Matlab
 
-- 优秀论文集 [Excellent essaies](/Excellent essaies.md)
+- 优秀论文集 [Excellent essaies](/Excellent-essaies.md)
 
 - Basic Models in MCM (In folder with same name)
 
