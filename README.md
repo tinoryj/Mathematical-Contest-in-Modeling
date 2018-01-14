@@ -177,15 +177,21 @@
 
 - 因素关联度（子因素与母因素的关联度）
 
-[GMCorrelation](/Code/GMCorrelation.m)
+    [GMCorrelation](/Code/GMCorrelation.m)
 
+- GM(2,1)
+
+    适用于非单调的摆动发展序列或具有饱和状态的S形序列
+    [GM21](/Code/GM21.m)
+    
+    
 - GM(1,1)
 
     适用于具有较强指数规律的序列，只能描述单调的变化过程
     [GM11](/Code/GM11.m)
     
 - GM(1,N)
-- 灰色预测模型
+
 
 ### 多元分析
 
