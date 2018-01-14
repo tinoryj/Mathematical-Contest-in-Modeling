@@ -1,0 +1,46 @@
+.white{color:#fff;}
+.pointer{cursor: pointer;}
+.right{float:right;}
+.left{float:left;}
+.num input {padding: 10px 5px 5px 10px; font-size: 28px; width:45%}
+.center{text-align: center}
+.btn-xl{border-radius: 5px; font-size: 25px; line-height: 1.33; padding: 11px 28px;}
+.logo-img{max-width: 200px; margin-top: 15px}
+.inline{display:inline;}
+
+/*Share this corrections*/
+.stButton .stButton_gradient {height: 24px !important;}
+.stButton .stFb, .stButton .stTwbutton, .stButton .stMainServices {height: 24px !important;}
+.stBubble_count{height: 38px !important;}
+
+ 
+/* Bootstrap documentation callouts */
+.bs-callout {
+margin: 20px 0;
+padding: 15px 30px 15px 15px;
+border-left: 5px solid #eee;
+}
+.bs-callout h4 {
+margin-top: 0;
+}
+.bs-callout p:last-child {
+margin-bottom: 0;
+}
+.bs-callout code,
+.bs-callout .highlight {
+background-color: #fff;
+}
+ 
+/* Themes for different contexts */
+.bs-callout-danger {
+background-color: #fcf2f2;
+border-color: #dFb5b4;
+}
+.bs-callout-warning {
+background-color: #fefbed;
+border-color: #f1e7bc;
+}
+.bs-callout-info {
+background-color: #f0f7fd;
+border-color: #d0e3f0;
+}
