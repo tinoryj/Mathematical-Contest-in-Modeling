@@ -2,11 +2,11 @@
 
 ## Main Object
 
-- MCM algorithm template with Matlab
+- [MCM algorithm template with Matlab](/Code)
 
-- 优秀论文集 [Excellent essaies](/Excellent-essaies.md)
+- [优秀论文集Excellent essaies](/Excellent-essaies.md)
 
-- Basic Models in MCM (In folder with same name)
+- [Basic Models in MCM](/BasicModelsinMCM)
 
 ## Content
 
