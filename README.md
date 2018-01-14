@@ -61,7 +61,7 @@
 
 [在线排队论主要模型计算](http://www.supositorio.com/rcalc/rcalclite.htm)
 
->为了避免使用时该网站无法正常访问，所有资源保存在[在线排队论主要模型计算-资源](/Code/Queueing-theory-models-calculator-files)
+>为了避免使用时该网站无法正常访问，所有资源保存在[在线排队论主要模型计算-资源](/Code/Queueing-theory-models-calculator-files.zip)
 
 ### 对策论
 
