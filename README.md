@@ -51,6 +51,17 @@
     - 多服务台串行
     - 混合
 
+#### 模拟方法
+
+[模拟方法-有服务优先级](/Code/sim_multiserver_proi.m)
+
+[模拟方法-无服务优先级](/Code/sim_multiserver.m)
+
+#### 理论计算
+
+[在线排队论主要模型计算](http://www.supositorio.com/rcalc/rcalclite.htm)
+
+>为了避免使用时该网站无法正常访问，所有资源保存在[在线排队论主要模型计算-资源](/Code/Queueing-theory-models-calculator-files)
 
 ### 对策论
 
@@ -182,12 +193,14 @@
 - GM(2,1)
 
     适用于非单调的摆动发展序列或具有饱和状态的S形序列
+    
     [GM21](/Code/GM21.m)
     
     
 - GM(1,1)
 
     适用于具有较强指数规律的序列，只能描述单调的变化过程
+    
     [GM11](/Code/GM11.m)
     
 - GM(1,N)
