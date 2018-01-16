@@ -203,6 +203,7 @@ ST为取出的边及其权值
 ### 数据统计/分析
 
 - Statistics Toolbox
+- SPSS (IBM Statistics software)
 
 ### 方差分析
 
@@ -244,7 +245,9 @@ ST为取出的边及其权值
     
 ### 马式链模型
 
-- 马尔可夫链
+- Matlab hmm toolbox
+
+参考资料：[隐马尔科夫模型matlab工具箱说明](http://blog.csdn.net/whiteinblue/article/details/40625291)
 
 
 ### 变分法模型
