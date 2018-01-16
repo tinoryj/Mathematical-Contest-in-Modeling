@@ -14,9 +14,46 @@
 
 ### 规划问题
 
+> Optimization Toolbox (GUI)
+
 - 线性规划
+
+函数格式:`[x,fval] = linprog(f,a,b,a1,b1,xstart,xend)`
+`f`:求解最小函数的表达式系数矩阵是`m*1`的矩阵
+`a`:≤不等式条件约束矩阵其均为形式
+`b`:a对应不等式右边的常数项
+`a1`:=等式条件约束矩阵
+`b1`:a1对应不等式右边的常数项
+`xstart`:x的取值范围的最小值的系数矩阵为`n*1`的矩阵
+`xend`:x的取值范围的最大值的系数矩阵为`n*1`的矩阵
+函数说明:不存在的项填写[]即可
+
+
 - 整数规划
+
+函数格式；`[x,fval,exitflag,output] = intlinprog(f,intcon,A,b,Aeq,beq,lb,ub,options)`
+
+>用于进行整数规划和整数非整数的混合规划
+
+`f`:为规划目标
+`intcon`:为包含整数变量下标的向量
+`A`、`b`:不等式约束条件
+`Aeq`、`Beq`:等式约束条件
+
+> `intcon`参数:包含整数变量下标的向量，即规划变量{x1，x2，x3，...，xn}中哪一项是整数，intcon里就加上哪一项。如x2，x3是整数，`intcon=[2 3]`。
+
+
+
 - 非线性规划
+
+函数格式：`fmincon(‘fun’,x0,A,b,Aeq,beq,lb,ub,’nonlinearcondition’)`
+`fun`:目标函数(以求最小值为目标函数)
+`x0`:最优解迭代的初始值
+`A`,`b`:线性约束不等式`A*x<= b`
+`Aeq`,`beq`:线性约束等式`Aeq*x = beq`
+`lb`,`ub`:自变量的上下界
+`nonlinearcondition`:非线性约束函数，它有两个返回值，其中一个为非线性不等式约
+束，另一个是非线性等式约束
 
 
 ### 动态规划
