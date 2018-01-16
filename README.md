@@ -196,7 +196,7 @@ ST为取出的边及其权值
 #### Matlab自带插值方法
 
 ```
-y = interp1(x, y, xx, 'TYPE')
+y = interp1(x, y, xx, 'TYPE')
 ```
 
 >其中x，y为原有数据点的坐标，xx为插值间隔与插值的点的x坐标）
@@ -215,6 +215,7 @@ y = interp1(x, y, xx, 'TYPE')
 - 牛顿插值
 
 相较于拉格朗日插值具有承袭性
+
 [newton插值](/Code/newtonInterp.m)
 
 - Hermite插值
