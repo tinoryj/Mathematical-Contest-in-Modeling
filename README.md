@@ -18,7 +18,12 @@
 
 - 线性规划
 
-函数格式:`[x,fval] = linprog(f,a,b,a1,b1,xstart,xend)`
+函数格式:
+
+```
+[x,fval] = linprog(f,a,b,a1,b1,xstart,xend)
+```
+
 `f`:求解最小函数的表达式系数矩阵是`m*1`的矩阵
 `a`:≤不等式条件约束矩阵其均为形式
 `b`:a对应不等式右边的常数项
@@ -31,7 +36,11 @@
 
 - 整数规划
 
-函数格式；`[x,fval,exitflag,output] = intlinprog(f,intcon,A,b,Aeq,beq,lb,ub,options)`
+函数格式:
+
+```
+[x,fval,exitflag,output] = intlinprog(f,intcon,A,b,Aeq,beq,lb,ub,options)
+```
 
 >用于进行整数规划和整数非整数的混合规划
 
@@ -46,7 +55,12 @@
 
 - 非线性规划
 
-函数格式：`fmincon(‘fun’,x0,A,b,Aeq,beq,lb,ub,’nonlinearcondition’)`
+函数格式：
+
+```
+fmincon(‘fun’,x0,A,b,Aeq,beq,lb,ub,’nonlinearcondition’)
+```
+
 `fun`:目标函数(以求最小值为目标函数)
 `x0`:最优解迭代的初始值
 `A`,`b`:线性约束不等式`A*x<= b`
@@ -63,11 +77,78 @@
 
 ### 图论/网络
 
-- 最短路径
-- 最小生成树
-- 最大流
-- 最小费用流
-- 关键路径
+#### Matlab计算前准备
+
+##### 构建图的稀疏矩阵
+
+```
+G = sparse(R,C,W);
+```
+
+> 行向量R（边起点），列向量C（边终点），边权值W（与R、C次序对应）
+
+```
+G = sparse(W);
+for i=1:length(W)
+    for j=1:length(W)
+        if G(i,j) == inf
+            G(i,j) = 0;
+        end
+    end
+end
+```
+
+> W为图的邻接矩阵
+
+##### 查看结构图
+
+```
+view(biograph(G,[],'ShowW','ON'))
+```
+
+
+
+### 相关算法的使用
+
+- 最短路径（内置）
+
+```
+[dist path]=graphshortestpath(G,start,end)
+```
+
+求图G中start点到end点的最短路径，返回值dist为最短路径权值和，path为其路径。
+
+```
+graphallshortestpaths(G)
+```
+
+求图G中任意两点的最短路径，结果为权值和矩阵
+
+
+- 最小生成树（内置）
+
+```
+[ST,pred] = graphminspantree(G)
+```
+ST为取出的边及其权值
+
+- 最小费用最大流（内置）
+
+```
+[M,F,C]=graphmaxflow(G,start,end)
+```
+
+求图G中start点到end点的最大流，返回值M为最大流，F为其方案，C为其最小割集。
+
+
+- AOE图的关键路径（非内置 | [criticalPath](/Code/criticalPath.m)）
+
+
+```
+[earliestST, latestET, route, freetime, worktime] = criticalPath(G)
+```
+
+
  
 ### 排队论
 
