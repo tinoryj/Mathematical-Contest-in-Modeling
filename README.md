@@ -12,7 +12,7 @@
 
 > 本章节内容中NaN代表不适用通用模型/代码框架-需根据实际问题进行编程。
 
-### 规划问题
+### 目标规划问题
 
 > Optimization Toolbox (GUI)
 
@@ -214,15 +214,15 @@ y = interp1(x, y, xx, 'TYPE')
 
 - 牛顿插值
 
-相较于拉格朗日插值具有承袭性
+ 相较于拉格朗日插值具有承袭性
 
-[newton插值](/Code/newtonInterp.m)
+ [newton插值](/Code/newtonInterp.m)
 
 - Hermite插值
 
-Hermite插值满足在节点上等于给定函数值，而且在节点上的导数值也等于给定的导数值。 
+ Hermite插值满足在节点上等于给定函数值，而且在节点上的导数值也等于给定的导数值。 
 
-[Hermite插值](/Code/HermiteInterp.m)
+ [Hermite插值](/Code/HermiteInterp.m)
 
 
 
@@ -339,15 +339,19 @@ stepwise(X,Y)
 - pdetool 解法
 
 
-### 目标规划
-
-- 单目标线性规划
-- 多目标线性规划
-
-
 ### 模糊数学
 
 - 模糊集合计算
+ 
+#### ToolBox
+
+```
+fuzzy
+```
+
+#### 相关中文资料
+
+[Matlab模糊控制工具箱](http://blog.sina.com.cn/s/blog_86186c970102wbc2.html)
 
 
 ### 优化算法
@@ -361,8 +365,25 @@ stepwise(X,Y)
 ### 时间序列
 
 - 移动平均
+
+ [movAverage](/Code/movAverage.m)
+
 - 指数平滑
+
+    - 一次指数平滑
+    
+     [indexSmooth1](/Code/indexSmooth1.m)
+    - 二次指数平滑
+
+     [indexSmooth2](/Code/indexSmooth2.m)
+    - 三次指数平滑
+
+     [indexSmooth3](/Code/indexSmooth3.m)
+
+
 - 自适应滤波
+
+ [AdaptiveFilter](/Code/AdaptiveFilter.m)
 
 
 ### 存贮论
