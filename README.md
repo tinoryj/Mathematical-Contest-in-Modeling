@@ -106,8 +106,6 @@ end
 view(biograph(G,[],'ShowW','ON'))
 ```
 
-
-
 ### 相关算法的使用
 
 - 最短路径（内置）
@@ -177,7 +175,7 @@ ST为取出的边及其权值
 
 #### 理论计算
 
-[在线排队论主要模型计算](http://www.supositorio.com/rcalc/rcalclite.htm)
+引用: [在线排队论主要模型计算](http://www.supositorio.com/rcalc/rcalclite.htm)
 
 >为了避免使用时该网站无法正常访问，所有资源保存在[在线排队论主要模型计算-资源](/Code/Queueing-theory-models-calculator-files.zip)
 
@@ -262,7 +260,6 @@ y = interp1(x, y, xx, 'TYPE')
 
 ### 回归分析
 
-
 #### 线性回归
 
 - 一元线性
@@ -282,9 +279,6 @@ y = interp1(x, y, xx, 'TYPE')
 `STATS`: 用于检验回归模型的统计量。有4个数值：判定系数R^2，F统计量观测值，检验的p的值，误差方差的估计
 `ALPHA`: 显著性水平（缺少时为默认值0.05）
 
-
-
-
 #### 逐步回归
 
 ```
@@ -297,25 +291,40 @@ stepwise(X,Y)
 
 - NaN
 
+#### 常微分方程模型
 
-### 稳定状态模型
+##### 常微分方程数值解(Runge-Kutta)
 
-- NaN
+```
+[t, y] = ode23('fun', ts, y0, options)。
+```
 
-### 常微分方程模型
+[t, y] : 输出矩阵，分别表示自变量t和因变量y的取值
+fun : 为待解方程写成的m函数文件名
+ts : 为自变量的取值范围
+y0 : 为函数的初值
+options : 用于设定误差限，可以缺省
 
-- 常微分方程数值解
-    - Euler
-    - Runge-Kutta
+##### 常微分方程分析解
 
-- 常微分方程分析解（内置函数）
+```
+r = dsolve('eqn1','eqn2',...,'cond1','cond2',...,'var')
+```
 
-### 差分方程模型
+eqni : 第i个微分方程
+ondi : 第i个初始条件
+var : 微分方程中的自变量，默认为t
 
-- 差分方程求解（算法/工具）
-    - 蛛网模型
-    - 遗传模型
+#### 偏微分方程数值解
 
+- 差分解法
+- pdetool 解法
+
+引用: [偏微分方程的数值解](https://wenku.baidu.com/view/df412e115f0e7cd184253653.html)
+
+#### 差分方程模型
+
+引用: [差分方程的解法分析及MATLAB实现](/Paper/差分方程的解法分析及MATLAB实现.pdf)
     
 ### 马式链模型
 
@@ -333,12 +342,6 @@ stepwise(X,Y)
 - Matlab BP工具箱
 - Tensorflow （Python）
 
-### 偏微分方程数值解
-
-- 差分解法
-- pdetool 解法
-
-
 ### 模糊数学
 
 - 模糊集合计算
@@ -351,16 +354,35 @@ fuzzy
 
 #### 相关中文资料
 
-[Matlab模糊控制工具箱](http://blog.sina.com.cn/s/blog_86186c970102wbc2.html)
+引用: [Matlab模糊控制工具箱](http://blog.sina.com.cn/s/blog_86186c970102wbc2.html)
 
 
 ### 优化算法
 
-- 模拟退火算法
-- 遗传算法
-- 禁忌搜索算法
-- 蚁群算法
+#### 模拟退火算法
 
+Matlab optimtool app
+
+参数: `simulannealbnd`
+
+#### 遗传算法
+
+Matlab optimtool app
+
+引用: [matlab遗传算法工具箱函数及实例讲解](http://blog.csdn.net/jeep_ouc/article/details/50260143)
+
+#### 禁忌搜索算法
+
+引用: [禁忌搜索算法](http://blog.csdn.net/sinat_25357975/article/details/51030764)
+
+#### 蚁群算法
+
+引用: [AS-TPS(商旅问题)事例](/Code/AS.m)
+
+#### 粒子群算法
+
+引用 1: [PSO-TPS(商旅问题)事例](/Code/PSO.m)
+引用 2: [PSO-非官方工具包](/Code/sdnchen-psomatlab/)
 
 ### 时间序列
 
@@ -433,7 +455,7 @@ fuzzy
 
 #### 工具与方法
 
-- SPSS - 导入数据后，在GUI界面上点击即可
+- **SPSS - 导入数据后，在GUI界面上点击即可** 最佳方案
 - Matlab
 
 #### 相关内容(Matlab)
@@ -503,6 +525,7 @@ fuzzy
     - Fisher判别
     - Bayes判别
 
+引用: [Matlab聚类分析](http://blog.sina.com.cn/s/blog_9f8cf10d0101f60p.html)
 
 ### 偏最小二乘
 
