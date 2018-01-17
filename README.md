@@ -214,15 +214,15 @@ y = interp1(x, y, xx, 'TYPE')
 
 - 牛顿插值
 
- 相较于拉格朗日插值具有承袭性
+    相较于拉格朗日插值具有承袭性
 
- [newton插值](/Code/newtonInterp.m)
+    [newton插值](/Code/newtonInterp.m)
 
 - Hermite插值
 
- Hermite插值满足在节点上等于给定函数值，而且在节点上的导数值也等于给定的导数值。 
+    Hermite插值满足在节点上等于给定函数值，而且在节点上的导数值也等于给定的导数值。 
 
- [Hermite插值](/Code/HermiteInterp.m)
+    [Hermite插值](/Code/HermiteInterp.m)
 
 
 
