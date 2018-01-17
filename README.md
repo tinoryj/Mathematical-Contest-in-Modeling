@@ -208,7 +208,7 @@ y = interp1(x, y, xx, 'TYPE')
 
 - 拉格朗日多项式插值
     
-    waiting。。。。。
+    [Lagrange插值](/Code/Lagrange.m)
 
 - 牛顿插值
 
