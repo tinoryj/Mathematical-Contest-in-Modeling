@@ -1,4 +1,4 @@
-function [range, dataPre, epsilon] = GM11(dataValue, preNum)
+function [range, dataPre, epsilon, a, b] = GM11(dataValue, preNum)
 % range -> 检验预测正确性，正常值在（exp(-2/(n+1))，exp(2/(n+1))）之间（n为提供的数据量）- 一般没用 
 % dataPre -> 预测结果
 % epsilon -> 与原数据的误差
