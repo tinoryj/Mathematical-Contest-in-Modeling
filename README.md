@@ -4,7 +4,7 @@
 
 - [MCM algorithm template with Matlab](/Code)
 
-- [优秀论文集Excellent essaies](/Excellent-essaies.md)
+- [优秀论文集Excellent essaies](/ExcellentEssaies.md)
 
 - [Basic Models in MCM](/BasicModelsinMCM)
     - [List of Basic Models in MCM](ListOfBasicModels.md)
