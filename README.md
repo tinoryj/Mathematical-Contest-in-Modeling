@@ -9,14 +9,3 @@
 - [Basic Models in MCM](/BasicModelsinMCM)
     - [List of Basic Models in MCM](ListOfBasicModels.md)
 
-## Two Main Modeling Competitions
-
-### CUMCM
-#### The Competition
-#### Time Split
-#### Main Work / Jobs
-### MCM/ICM
-#### The Competition
-#### Time Split
-#### Main Work / Jobs
-
