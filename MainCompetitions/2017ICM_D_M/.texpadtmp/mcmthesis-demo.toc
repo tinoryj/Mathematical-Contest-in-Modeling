@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Background}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Our Works}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Assumptions}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}About the Given Data}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}About Our Model}{3}{subsection.2.2}
+\contentsline {section}{\numberline {3}Analysis of the Problem}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Simplification of the Problem}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Analysis of the Process}{4}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Solution Steps}{4}{subsection.3.3}
+\contentsline {section}{\numberline {4}Establishment of the Model}{5}{section.4}
+\contentsline {subsection}{\numberline {4.1}M/M/s Waiting Queuing Model}{5}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Single Desk Model}{6}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Multi-service Desk Model}{7}{subsubsection.4.1.2}
+\contentsline {subsection}{\numberline {4.2}Exploration Model by Simulation}{8}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Multi-objective Optimization Model}{8}{subsection.4.3}
+\contentsline {section}{\numberline {5}Calculation and Analysis of the Model}{9}{section.5}
+\contentsline {subsection}{\numberline {5.1}Task A}{9}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Task B}{10}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Task C}{15}{subsection.5.3}
+\contentsline {section}{\numberline {6}Strengths and Weaknesses}{16}{section.6}
+\contentsline {subsection}{\numberline {6.1}Strengths}{16}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Weaknesses}{17}{subsection.6.2}
+\contentsline {section}{\numberline {7}Future Work}{17}{section.7}
+\contentsline {section}{\numberline {8}Policy and Procedural Recommendations}{18}{section.8}
+\contentsline {section}{Appendices}{19}{section*.30}

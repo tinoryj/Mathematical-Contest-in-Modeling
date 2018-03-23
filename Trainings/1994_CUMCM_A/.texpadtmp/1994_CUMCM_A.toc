@@ -1,0 +1,37 @@
+\contentsline {section}{\numberline {一 \hskip 1em\relax \kern -1em}问题重述}{4}{section.1}
+\contentsline {section}{\numberline {二 \hskip 1em\relax \kern -1em}问题分析}{4}{section.2}
+\contentsline {section}{\numberline {三 \hskip 1em\relax \kern -1em}模型建立}{5}{section.3}
+\contentsline {subsection}{\numberline {3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}理想模型}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}求解方案}{6}{subsection.3.2}
+\contentsline {subsection}{\numberline {3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}符号声明}{6}{subsection.3.3}
+\contentsline {subsection}{\numberline {3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}基本假设}{7}{subsection.3.4}
+\contentsline {section}{\numberline {四 \hskip 1em\relax \kern -1em}模型求解前准备}{7}{section.4}
+\contentsline {subsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}地形数据插值优化}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}对河流宽度的计算}{7}{subsection.4.2}
+\contentsline {section}{\numberline {五 \hskip 1em\relax \kern -1em}问题一分析与求解}{8}{section.5}
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}方案一}{8}{subsection.5.1}
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}方案二}{8}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}桥梁位置选择}{9}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}隧道位置选择}{10}{subsubsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}普通公路修建位置选择-Dijkstra算法}{10}{subsubsection.5.2.3}
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}结果与分析}{12}{subsubsection.5.2.4}
+\contentsline {section}{\numberline {六 \hskip 1em\relax \kern -1em}问题二模型与求解}{12}{section.6}
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}方案一}{12}{subsection.6.1}
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}方案二}{13}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}动态规划SPFA算法}{13}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}分段点的确定}{13}{subsubsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}结果与分析}{14}{subsubsection.6.2.3}
+\contentsline {section}{\numberline {七 \hskip 1em\relax \kern -1em}方案合理性分析}{15}{section.7}
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}不修建隧道}{15}{subsection.7.1}
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}改变桥梁位置}{16}{subsection.7.2}
+\contentsline {section}{\numberline {八 \hskip 1em\relax \kern -1em}模型评价与改进方向}{16}{section.8}
+\contentsline {subsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型的评价}{16}{subsection.8.1}
+\contentsline {subsubsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}优点}{16}{subsubsection.8.1.1}
+\contentsline {subsubsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}不足}{17}{subsubsection.8.1.2}
+\contentsline {subsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型的改进方向}{17}{subsection.8.2}
+\contentsline {section}{\numberline {九 \hskip 1em\relax \kern -1em}参考文献}{17}{section.9}
+\contentsline {section}{\numberline {十 \hskip 1em\relax \kern -1em}附录：相关程序}{17}{section.10}
+\contentsline {subsection}{\numberline {10\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}地型相关图形绘制}{17}{subsection.10.1}
+\contentsline {subsection}{\numberline {10\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}地形图抽象化为邻接矩阵}{18}{subsection.10.2}
+\contentsline {subsection}{\numberline {10\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}Dijkstra算法实现}{20}{subsection.10.3}
+\contentsline {subsection}{\numberline {10\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}SPFA算法实现}{21}{subsection.10.4}

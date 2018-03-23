@@ -1,0 +1,36 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Background}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Our Works}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Task 1: Charging Stations In The United States}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}The Key Factor in This Section}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Assumptions}{2}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Establishment of the Model}{3}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Charging station scale calculation model based on queuing theory}{3}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Optimization of Two Charging Station Options}{4}{subsubsection.2.3.2}
+\contentsline {subsection}{\numberline {2.4}Calculation and Analysis}{5}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Charging Station Design For Urban, Suburban, Rural Area}{5}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}Charging Station Design For Highway}{6}{subsubsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.3}Charging Station Design Conclusion}{7}{subsubsection.2.4.3}
+\contentsline {section}{\numberline {3}Task 2: Ireland 's Charging Network and Electric Vehicles}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}A: Hierarchical Charging Station Layout Model Based on Web Search \& Voronoi Diagram}{7}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Establishment of the Model}{7}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Calculation and Analysis}{9}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}B: Charging Network Development Proposals.}{12}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Establishment of the Model}{12}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Calculation and Analysis}{13}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Conclusion}{14}{subsubsection.3.2.3}
+\contentsline {subsection}{\numberline {3.3}C: Price Distribution Movement Model Based on Gray Prediction}{14}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Factors limiting the development of electric vehicle}{14}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Establishment of the Model}{15}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Calculation and Analysis}{15}{subsubsection.3.3.3}
+\contentsline {section}{\numberline {4}Task 3: Charging Network Growing \& Evolving Plan Classification System}{16}{section.4}
+\contentsline {subsection}{\numberline {4.1}Establishment of the Model}{16}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Calculation and Analysis}{17}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Conclusion}{18}{subsection.4.3}
+\contentsline {section}{\numberline {5}Task 4: Technology Impact Increasing of Electric Vehicles}{18}{section.5}
+\contentsline {section}{\numberline {6}Strengths and Weaknesses}{20}{section.6}
+\contentsline {subsection}{\numberline {6.1}Strengths}{20}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Weaknesses}{20}{subsection.6.2}
+\contentsline {section}{\numberline {7}Future Work}{20}{section.7}
+\contentsline {section}{\numberline {8}Handout Written For The Leaders}{21}{section.8}
+\contentsline {section}{Appendices}{23}{section*.38}

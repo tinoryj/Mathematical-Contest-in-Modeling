@@ -1,0 +1,51 @@
+\contentsline {section}{\numberline {一、\kern -1em}问题重述}{4}{section.1}
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}引言}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题的提出}{4}{subsection.1.2}
+\contentsline {section}{\numberline {二、\kern -1em}问题分析}{4}{section.2}
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题一：两组评酒员打分问题的分析}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题二：对酿酒葡萄的分级问题}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题三：酿酒葡萄与葡萄酒的理化指标的联系}{5}{subsection.2.3}
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}问题四：酿酒葡萄和葡萄酒的理化指标对葡萄酒质量的影响分析}{5}{subsection.2.4}
+\contentsline {section}{\numberline {三、\kern -1em}模型的假设}{6}{section.3}
+\contentsline {section}{\numberline {四、\kern -1em}符号说明}{6}{section.4}
+\contentsline {section}{\numberline {五、\kern -1em}建模前准备}{6}{section.5}
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}数据预处理}{6}{subsection.5.1}
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}数据归一化}{7}{subsection.5.2}
+\contentsline {section}{\numberline {六、\kern -1em}问题一：两组评酒员打分问题}{7}{section.6}
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型建立}{7}{subsection.6.1}
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型求解}{8}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}评价结果差异性}{8}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}评价结果可信度}{8}{subsubsection.6.2.2}
+\contentsline {section}{\numberline {七、\kern -1em}问题二：酿酒葡萄分级问题}{11}{section.7}
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型建立}{11}{subsection.7.1}
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}主成分分析法\textsuperscript {\textsuperscript {\cite {主成分分析}}}}{11}{subsubsection.7.1.1}
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}K-means聚类模型\textsuperscript {\textsuperscript {\cite {k-means}}}}{12}{subsubsection.7.1.2}
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}$Fisher$准则函数\textsuperscript {\textsuperscript {\cite {Fisher}}}}{13}{subsubsection.7.1.3}
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型求解}{13}{subsection.7.2}
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}进行主成分分析并确定主成分}{13}{subsubsection.7.2.1}
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}主成分进行打分并且得到综合得分}{13}{subsubsection.7.2.2}
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}将综合得分进行标准化成百分制的形式}{14}{subsubsection.7.2.3}
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}通过K-means聚类得出聚出的类别}{15}{subsubsection.7.2.4}
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}5}通过两个打分的均值确定酿酒葡萄质量等级}{15}{subsubsection.7.2.5}
+\contentsline {section}{\numberline {八、\kern -1em}问题三：酿酒葡萄与葡萄酒的理化指标的联系}{16}{section.8}
+\contentsline {subsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型建立}{16}{subsection.8.1}
+\contentsline {subsubsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}相关系数}{17}{subsubsection.8.1.1}
+\contentsline {subsubsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}多元线性回归}{17}{subsubsection.8.1.2}
+\contentsline {subsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型求解}{18}{subsection.8.2}
+\contentsline {subsubsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}相关系数及多元线性回归求解}{18}{subsubsection.8.2.1}
+\contentsline {subsubsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}求解结果}{18}{subsubsection.8.2.2}
+\contentsline {section}{\numberline {九、\kern -1em}问题四：酿酒葡萄和葡萄酒的理化指标对葡萄酒质量的影响}{21}{section.9}
+\contentsline {subsection}{\numberline {9\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型的建立}{21}{subsection.9.1}
+\contentsline {subsubsection}{\numberline {9\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}多元线性回归中的检验}{21}{subsubsection.9.1.1}
+\contentsline {subsubsection}{\numberline {9\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}交叉验证模型}{22}{subsubsection.9.1.2}
+\contentsline {subsection}{\numberline {9\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型求解}{22}{subsection.9.2}
+\contentsline {subsubsection}{\numberline {9\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}利用matlab进行回归分析}{22}{subsubsection.9.2.1}
+\contentsline {subsubsection}{\numberline {9\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}rcoplot(r,rint)}{22}{subsubsection.9.2.2}
+\contentsline {subsubsection}{\numberline {9\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}排除异常值后再次进行回归，得到回归模型的系数}{22}{subsubsection.9.2.3}
+\contentsline {subsubsection}{\numberline {9\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}对回归模型进行检验}{22}{subsubsection.9.2.4}
+\contentsline {subsubsection}{\numberline {9\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}5}交叉验证结果}{23}{subsubsection.9.2.5}
+\contentsline {section}{\numberline {十、\kern -1em}模型优缺点}{25}{section.10}
+\contentsline {subsection}{\numberline {10\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型优点}{25}{subsection.10.1}
+\contentsline {subsection}{\numberline {10\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型缺点}{25}{subsection.10.2}
+\contentsline {section}{\numberline {十一、\kern -1em}模型改进方向}{25}{section.11}
+\contentsline {section}{\numberline {十二、\kern -1em}参考文献}{25}{section.12}

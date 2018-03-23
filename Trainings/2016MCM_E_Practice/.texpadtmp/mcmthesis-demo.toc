@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Background}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Our work}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Symbol Description}{3}{section.2}
+\contentsline {section}{\numberline {3}Analysis of the Problem}{3}{section.3}
+\contentsline {section}{\numberline {4}Key Points of Our Model}{3}{section.4}
+\contentsline {subsection}{\numberline {4.1}Assumptions}{3}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Approach}{4}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Multi-factors analysis}{4}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}GM(1,1) model}{4}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Fitting model}{4}{subsubsection.4.2.3}
+\contentsline {section}{\numberline {5}Calculating the Model}{5}{section.5}
+\contentsline {subsection}{\numberline {5.1}Basic Model}{5}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Model Application}{6}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}The Two Algorithms: Fitting and GM(1,1)}{6}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Implementation and Comparison between Polynomial Fit and GM(1,1)}{9}{subsubsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5.2.3}the model results and analysis}{10}{subsubsection.5.2.3}
+\contentsline {section}{\numberline {6}Model Application in Prediction}{11}{section.6}
+\contentsline {section}{\numberline {7}Intervention Plan Based on Our Model}{12}{section.7}
+\contentsline {section}{\numberline {8}Evaluation of the Intervention Plan}{15}{section.8}
+\contentsline {section}{\numberline {9}The Improvement of Our Model}{17}{section.9}
+\contentsline {section}{\numberline {10}Strengths and weaknesses}{17}{section.10}
+\contentsline {subsection}{\numberline {10.1}Strengths}{17}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}weaknesses}{18}{subsection.10.2}

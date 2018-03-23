@@ -1,0 +1,41 @@
+\contentsline {section}{\numberline {一、\kern -1em}问题重述}{4}{section.1}
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题的提出}{4}{subsection.1.1}
+\contentsline {section}{\numberline {二、\kern -1em}问题分析}{5}{section.2}
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题一：已知风速和和钢球质量条件下的系泊系统计算模型}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题二：风速为$36m/s$时系泊系统优化模型}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题三：风力、水流力和水深综合影响下系泊系统优化模型}{5}{subsection.2.3}
+\contentsline {section}{\numberline {三、\kern -1em}模型的假设}{6}{section.3}
+\contentsline {section}{\numberline {四、\kern -1em}符号说明}{7}{section.4}
+\contentsline {section}{\numberline {五、\kern -1em}建模前准备}{8}{section.5}
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}广义坐标\textsuperscript {\textsuperscript {\cite {理论力学}}}}{8}{subsection.5.1}
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}虚功原理\textsuperscript {\textsuperscript {\cite {理论力学}}}}{8}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}实位移与虚位移}{8}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}理想约束}{9}{subsubsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}虚功原理}{9}{subsubsection.5.2.3}
+\contentsline {section}{\numberline {六、\kern -1em}已知风速和和钢球质量条件下的系泊系统计算模型}{10}{section.6}
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型建立}{10}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}根据几何关系建立各组件重心与倾角关系}{10}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}各部件所受主动力的分析}{11}{subsubsection.6.1.2}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}基于虚功原理的计算}{12}{subsubsection.6.1.3}
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型求解}{13}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}海风风速为$12m/s$时的求解}{13}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}海风风速为$24m/s$时的求解}{15}{subsubsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}求解结果汇总}{16}{subsubsection.6.2.3}
+\contentsline {section}{\numberline {七、\kern -1em}风速为$36m/s$时系泊系统优化模型}{17}{section.7}
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型建立}{17}{subsection.7.1}
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}非线性规划模型}{17}{subsubsection.7.1.1}
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型求解}{18}{subsection.7.2}
+\contentsline {section}{\numberline {八、\kern -1em}风力、水流力和水深综合影响下系泊系统优化模型}{20}{section.8}
+\contentsline {subsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型建立}{20}{subsection.8.1}
+\contentsline {subsubsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}根据几何关系建立各组件重心与倾角关系}{20}{subsubsection.8.1.1}
+\contentsline {subsubsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}各部件所受主动力的分析}{21}{subsubsection.8.1.2}
+\contentsline {subsubsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}基于虚功原理的优化模型}{21}{subsubsection.8.1.3}
+\contentsline {subsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型求解}{22}{subsection.8.2}
+\contentsline {subsubsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}锚链型号选择}{22}{subsubsection.8.2.1}
+\contentsline {subsubsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}不同风力、水流力和水深的影响}{23}{subsubsection.8.2.2}
+\contentsline {section}{\numberline {九、\kern -1em}模型优缺点}{27}{section.9}
+\contentsline {subsection}{\numberline {9\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型优点}{27}{subsection.9.1}
+\contentsline {subsection}{\numberline {9\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型缺点}{27}{subsection.9.2}
+\contentsline {section}{\numberline {十、\kern -1em}模型改进方向}{27}{section.10}
+\contentsline {section}{\numberline {十一、\kern -1em}参考文献}{27}{section.11}
+\contentsline {section}{\numberline {附录A}程序}{28}{section.1}

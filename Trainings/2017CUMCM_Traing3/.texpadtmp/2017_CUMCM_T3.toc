@@ -1,0 +1,47 @@
+\contentsline {section}{\numberline {一、\kern -1em}问题重述}{4}{section.1}
+\contentsline {section}{\numberline {二、\kern -1em}问题分析}{4}{section.2}
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}影子长度变化分析}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}直杆影子定位}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}未知日期条件下直杆影子定位}{5}{subsection.2.3}
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}视频拍摄地点分析}{5}{subsection.2.4}
+\contentsline {section}{\numberline {三、\kern -1em}基本假设}{5}{section.3}
+\contentsline {section}{\numberline {四、\kern -1em}符号说明}{6}{section.4}
+\contentsline {section}{\numberline {五、\kern -1em}影子长度变化的分析}{7}{section.5}
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题分析}{7}{subsection.5.1}
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型建立}{7}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}坐标系建立}{7}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}赤纬角\textsuperscript {\textsuperscript {\cite {赤纬角}}}}{8}{subsubsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}时角\textsuperscript {\textsuperscript {\cite {时角}}}}{8}{subsubsection.5.2.3}
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}太阳高度角\textsuperscript {\textsuperscript {\cite {高度角}}}}{9}{subsubsection.5.2.4}
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}5}影长计算模型}{9}{subsubsection.5.2.5}
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}模型求解}{9}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}相关变量影响分析}{9}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}直杆影子长度变化分析}{10}{subsubsection.5.3.2}
+\contentsline {section}{\numberline {六、\kern -1em}直杆影子定位}{11}{section.6}
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型建立}{11}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}基于对“杆的影长”二次拟合确定杆所在经度的范围的模型}{11}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}基于“最小二乘”的最优化方法求解直杆所在的纬度的模型}{12}{subsubsection.6.1.2}
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型求解}{13}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}经度范围的确定}{13}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}经纬度求解步骤及结果}{14}{subsubsection.6.2.2}
+\contentsline {section}{\numberline {七、\kern -1em}未知日期条件下直杆影子定位}{15}{section.7}
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}根据影子的顶点坐标确定直杆的可能的位置与观测时间的多目标优化模型}{15}{subsection.7.1}
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}建模前准备}{15}{subsubsection.7.1.1}
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}多目标的优化模型建立}{15}{subsubsection.7.1.2}
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型求解}{16}{subsection.7.2}
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}经度计算}{16}{subsubsection.7.2.1}
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}纬度计算}{16}{subsubsection.7.2.2}
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}最终求解结果}{18}{subsubsection.7.2.3}
+\contentsline {section}{\numberline {八、\kern -1em}视频拍摄地点分析}{19}{section.8}
+\contentsline {subsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型建立}{19}{subsection.8.1}
+\contentsline {subsubsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}视频帧截取与灰度处理}{19}{subsubsection.8.1.1}
+\contentsline {subsubsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}图像二值化处理与缩放}{20}{subsubsection.8.1.2}
+\contentsline {subsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型求解}{20}{subsection.8.2}
+\contentsline {subsubsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}已知时间}{20}{subsubsection.8.2.1}
+\contentsline {subsubsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}未知时间}{21}{subsubsection.8.2.2}
+\contentsline {subsubsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}最终求解结果}{21}{subsubsection.8.2.3}
+\contentsline {section}{\numberline {九、\kern -1em}模型优缺点}{22}{section.9}
+\contentsline {subsection}{\numberline {9\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型优点}{22}{subsection.9.1}
+\contentsline {subsection}{\numberline {9\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型缺点}{22}{subsection.9.2}
+\contentsline {section}{\numberline {十、\kern -1em}模型改进方向}{22}{section.10}
+\contentsline {section}{\numberline {十一、\kern -1em}参考文献}{22}{section.11}
